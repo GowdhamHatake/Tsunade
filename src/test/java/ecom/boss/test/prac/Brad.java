@@ -17,13 +17,15 @@ private void thi() {
 	System.out.println(4);
 }
 
+private void fou() {
 
-private void fiv() {
-
-	System.out.println(6);
+	System.out.println(5);
 }
 
-
+private void fiv() {
+	System.out.println(6);
+	
+}
 
 
 
