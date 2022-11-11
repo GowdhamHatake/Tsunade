@@ -18,7 +18,10 @@ private void thi() {
 }
 
 
+private void fiv() {
 
+	System.out.println(6);
+}
 
 
 
