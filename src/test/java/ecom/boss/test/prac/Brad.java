@@ -22,8 +22,10 @@ private void fou() {
 	System.out.println(5);
 }
 
-
-
+private void fiv() {
+	System.out.println(6);
+	
+}
 
 
 
