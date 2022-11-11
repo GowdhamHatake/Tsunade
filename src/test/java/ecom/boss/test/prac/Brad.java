@@ -17,7 +17,10 @@ private void thi() {
 	System.out.println(4);
 }
 
+private void fou() {
 
+	System.out.println(5);
+}
 
 
 
